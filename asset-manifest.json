@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Calculator-React/static/css/main.3cda7385.css",
+    "main.js": "/Calculator-React/static/js/main.f87450b1.js",
+    "static/js/787.a0d8d0d4.chunk.js": "/Calculator-React/static/js/787.a0d8d0d4.chunk.js",
+    "static/media/GentiumPlus-Regular.ttf": "/Calculator-React/static/media/GentiumPlus-Regular.20f36c1d93525b9d31de.ttf",
+    "static/media/Roboto-Thin.ttf": "/Calculator-React/static/media/Roboto-Thin.a732a12eb07742232407.ttf",
+    "index.html": "/Calculator-React/index.html",
+    "main.3cda7385.css.map": "/Calculator-React/static/css/main.3cda7385.css.map",
+    "main.f87450b1.js.map": "/Calculator-React/static/js/main.f87450b1.js.map",
+    "787.a0d8d0d4.chunk.js.map": "/Calculator-React/static/js/787.a0d8d0d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cda7385.css",
+    "static/js/main.f87450b1.js"
+  ]
+}
