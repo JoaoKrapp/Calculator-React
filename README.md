@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Web lin
+## Web link
 
 ### `http://JoaoKrapp.github.io/Calculator-React`
 
